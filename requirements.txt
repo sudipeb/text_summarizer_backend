@@ -11,5 +11,6 @@ uvicorn
 
 python-dotenv
 
+#for formatting
 black
 isort
